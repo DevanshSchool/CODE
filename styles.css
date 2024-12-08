@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #fce4ec, #f8bbd0);
+    color: #333;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  section {
+    padding: 50px 20px;
+  }
+  
+  #home {
+    background: #f06292;
+    color: #fff;
+    border-radius: 15px;
+  }
+  
+  h1, h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+  }
+  
+  button {
+    background-color: #f06292;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #e91e63;
+  }
+  
+  .gallery img {
+    width: 30%;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  textarea {
+    width: 80%;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  form button {
+    background-color: #f06292;
+    margin-top: 10px;
+  }
+  
